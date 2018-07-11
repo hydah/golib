@@ -1,0 +1,45 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "g/V4qrXjUGG9B+e3hB+4NAYJ5Gs=",
+			"path": "github.com/gorilla/context",
+			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
+			"revisionTime": "2016-08-17T18:46:32Z"
+		},
+		{
+			"checksumSHA1": "mitzC+fL94AXk/KeUfEZG6Ynb3U=",
+			"path": "github.com/gorilla/securecookie",
+			"revision": "78f3d318a8bf316cda921f25e96fd0b441c5173d",
+			"revisionTime": "2018-06-08T14:44:17Z"
+		},
+		{
+			"checksumSHA1": "nB526COHQwGljTcMf+JJP3gc9Ck=",
+			"path": "github.com/gorilla/sessions",
+			"revision": "03b6f63cc43ef9c7240a635a5e22b13180e822b8",
+			"revisionTime": "2018-06-06T15:52:11Z"
+		},
+		{
+			"checksumSHA1": "ezRkrYYy9mMxREVDryjD5NlHa7M=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "8c199fb6259ffc1af525cc3ad52ee60ba8359669",
+			"revisionTime": "2015-04-21T17:00:07Z",
+			"version": "v1.1",
+			"versionExact": "v1.1"
+		},
+		{
+			"checksumSHA1": "97RxWrJYk2+21ds0JOCGFhrPlPA=",
+			"path": "github.com/simplejia/utils",
+			"revision": "fdce810bc02026fbcf862eeb39adeca34382bd90",
+			"revisionTime": "2018-06-26T07:58:38Z"
+		},
+		{
+			"checksumSHA1": "5q4Lyr1RgyO9j66pTmz1M63rQvs=",
+			"path": "github.com/tylerb/graceful",
+			"revision": "d72b0151351a13d0421b763b88f791469c4f5dc7",
+			"revisionTime": "2017-02-21T17:10:03Z"
+		}
+	],
+	"rootPath": "github.com/hydah/golib"
+}
