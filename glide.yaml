@@ -1,0 +1,20 @@
+package: github.com/hydah/golib
+import:
+- package: github.com/apcera/gnatsd
+  version: v1.2.0
+  subpackages:
+  - hash
+- package: github.com/gorilla/sessions
+  version: v1.1.1
+- package: github.com/hydah/go-ini-v1
+- package: github.com/julienschmidt/httprouter
+  version: v1.1
+- package: github.com/simplejia/utils
+- package: github.com/tylerb/graceful
+  version: v1.2.15
+testImport:
+- package: github.com/bmizerany/assert
+- package: github.com/smartystreets/goconvey
+  version: 1.6.3
+  subpackages:
+  - convey
